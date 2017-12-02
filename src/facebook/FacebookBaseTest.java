@@ -1,7 +1,6 @@
 package facebook;
 
 import java.util.concurrent.TimeUnit;
-
 import org.junit.After;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
